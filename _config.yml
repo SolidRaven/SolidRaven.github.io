@@ -40,9 +40,9 @@ disqus_shortname:   taylantatli
 email:               signalh176@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         https://github.com/SolidRaven
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          username
+linkedin:          https://www.linkedin.com/in/sergio-arriaga-4a1312283/
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -50,7 +50,7 @@ linkedin:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
