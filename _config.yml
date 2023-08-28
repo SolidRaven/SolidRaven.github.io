@@ -4,7 +4,7 @@ bio:                'Welcome to my page'
 description:        "Using Moon a minimal, one column jekyll theme. Forked by me."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/SolidRaven-logo.png'
 background:         'assets/img/background-image.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_MX
