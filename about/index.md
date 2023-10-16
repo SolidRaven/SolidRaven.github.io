@@ -6,7 +6,7 @@ date: 15-10-2023
 comments: false
 ---
     
-<center><a href="https://SolidRaven.github.io"><b>Hi, </b></a>my name is Sergio and I am a Computational Systems Engineering student. I also like ravens.</center>
+<center><a href="https://SolidRaven.github.io"><b>Hi,</b></a> my name is Sergio and I am a Computational Systems Engineering student. I also like ravens.</center>
 
 ## Summary
 I am a fast learner, discipline and responsibility distinguishes me.
