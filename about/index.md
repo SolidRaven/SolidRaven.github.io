@@ -17,8 +17,8 @@ I have also experience with Cisco routers and switches.
 Basic configuration of Cisco routers and switches.
 OSPFv2, OSPFv3 internal and EIGRP knowledge.
 
-## Programming
-Python and Java basic knowledge.
+## Programming/Scripting
+Java, Python and Powershell basic knowledge.
 
 ## OS
 Administration of Linux systems knowledge.
