@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about, Jekyll, theme, skills, networking, programming]
+date: 15-10-2023
 comments: false
 ---
     
-<center><a href="https://SolidRaven.github.io"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://SolidRaven.github.io"><b>Hi,</b></a>my name is Sergio and I am a Computational Systems Engineering student. I also like ravens.</center>
 
 ## Features
 * Minimal, you can focus on your content
