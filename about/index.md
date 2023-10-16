@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 tags: [about, Jekyll, theme, skills, networking, programming]
 date: 15-10-2023
 comments: false
